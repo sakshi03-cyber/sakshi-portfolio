@@ -4,12 +4,6 @@
 
 ---
 
-## ✨ Live Preview
-
-Open `sakshi_portfolio.html` in any modern browser — no build step, no dependencies, no server required.
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -76,40 +70,6 @@ Everything lives in one self-contained HTML file — styles, scripts, fonts, and
 
 ---
 
-## 📦 How to Use
-
-### Option 1 — Open Locally
-```bash
-# Just double-click the file, or:
-open sakshi_portfolio.html        # macOS
-start sakshi_portfolio.html       # Windows
-xdg-open sakshi_portfolio.html    # Linux
-```
-
-### Option 2 — Deploy to GitHub Pages
-```bash
-git init
-git add sakshi_portfolio.html README.md
-git commit -m "Initial portfolio commit"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/portfolio.git
-git push -u origin main
-# Then enable GitHub Pages in repository Settings → Pages → Deploy from branch: main
-```
-
-### Option 3 — Deploy to Netlify (Drag & Drop)
-1. Go to [netlify.com](https://netlify.com) → Log in
-2. Drag and drop `sakshi_portfolio.html` onto the Netlify dashboard
-3. Your site goes live instantly with a free URL
-
-### Option 4 — Deploy to Vercel
-```bash
-npm i -g vercel
-vercel --name sakshi-portfolio
-# Follow prompts — deploy in under a minute
-```
-
----
 
 ## ✏️ Customization Guide
 
